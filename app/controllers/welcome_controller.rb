@@ -2,7 +2,7 @@ class WelcomeController < ApplicationController
 
   # GET /welcome
   def index
-    sleep(20)
+    sleep(35)
   end
 
 end
